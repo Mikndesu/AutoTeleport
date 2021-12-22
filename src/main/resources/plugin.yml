@@ -1,0 +1,6 @@
+name: AutoTeleport
+version: '${project.version}'
+main: mitsukigoto.spigotplugin.AutoTeleport
+api-version: 1.18
+authors: [ MitsukiGoto ]
+website: https://github.com/MitsukiGoto
